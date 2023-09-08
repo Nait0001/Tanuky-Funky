@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tadeu.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tadeu Down0000" x="0" y="0" width="562" height="817" pivotX="106.35" pivotY="-7.35" frameX="0" frameY="-9" frameWidth="562" frameHeight="826"/>
+	<SubTexture name="Tadeu Down0001" x="0" y="0" width="562" height="817" frameX="0" frameY="-9" frameWidth="562" frameHeight="826"/>
+	<SubTexture name="Tadeu Down0002" x="562" y="0" width="556" height="826" frameX="-2" frameY="0" frameWidth="562" frameHeight="826"/>
+	<SubTexture name="Tadeu Down0003" x="562" y="0" width="556" height="826" frameX="-2" frameY="0" frameWidth="562" frameHeight="826"/>
+	<SubTexture name="Tadeu Idle Dance0000" x="1118" y="0" width="502" height="832" pivotX="20.4" pivotY="22.3" frameX="0" frameY="-23" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0001" x="1118" y="0" width="502" height="832" frameX="0" frameY="-23" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0002" x="0" y="832" width="500" height="855" frameX="0" frameY="0" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0003" x="0" y="832" width="500" height="855" frameX="0" frameY="0" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0004" x="500" y="832" width="478" height="849" frameX="-18" frameY="-6" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0005" x="500" y="832" width="478" height="849" frameX="-18" frameY="-6" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0006" x="978" y="832" width="474" height="840" frameX="-21" frameY="-15" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0007" x="978" y="832" width="474" height="840" frameX="-21" frameY="-15" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0008" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0009" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0010" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0011" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0012" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Idle Dance0013" x="1452" y="832" width="472" height="846" frameX="-23" frameY="-9" frameWidth="502" frameHeight="855"/>
+	<SubTexture name="Tadeu Up0000" x="0" y="1687" width="528" height="858" pivotX="21.65" pivotY="25.85" frameX="0" frameY="0" frameWidth="529" frameHeight="858"/>
+	<SubTexture name="Tadeu Up0001" x="0" y="1687" width="528" height="858" frameX="0" frameY="0" frameWidth="529" frameHeight="858"/>
+	<SubTexture name="Tadeu Up0002" x="528" y="1687" width="526" height="855" frameX="-3" frameY="-3" frameWidth="529" frameHeight="858"/>
+	<SubTexture name="Tadeu Up0003" x="528" y="1687" width="526" height="855" frameX="-3" frameY="-3" frameWidth="529" frameHeight="858"/>
+	<SubTexture name="Tadeu singLeft0000" x="1054" y="1687" width="599" height="884" pivotX="164.3" pivotY="51.65" frameX="-2" frameY="0" frameWidth="604" frameHeight="884"/>
+	<SubTexture name="Tadeu singLeft0001" x="1054" y="1687" width="599" height="884" frameX="-2" frameY="0" frameWidth="604" frameHeight="884"/>
+	<SubTexture name="Tadeu singLeft0002" x="0" y="2571" width="604" height="875" frameX="0" frameY="-9" frameWidth="604" frameHeight="884"/>
+	<SubTexture name="Tadeu singLeft0003" x="0" y="2571" width="604" height="875" frameX="0" frameY="-9" frameWidth="604" frameHeight="884"/>
+	<SubTexture name="Tadeu singRight0000" x="604" y="2571" width="680" height="807" pivotX="-59.65" pivotY="-19.2" frameX="-3" frameY="0" frameWidth="683" frameHeight="807"/>
+	<SubTexture name="Tadeu singRight0001" x="604" y="2571" width="680" height="807" frameX="-3" frameY="0" frameWidth="683" frameHeight="807"/>
+	<SubTexture name="Tadeu singRight0002" x="1284" y="2571" width="679" height="805" frameX="0" frameY="-2" frameWidth="683" frameHeight="807"/>
+	<SubTexture name="Tadeu singRight0003" x="1284" y="2571" width="679" height="805" frameX="0" frameY="-2" frameWidth="683" frameHeight="807"/>
+</TextureAtlas>

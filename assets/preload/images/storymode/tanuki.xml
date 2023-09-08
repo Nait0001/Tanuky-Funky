@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tanuki.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tanuki Menu instance 10000" x="0" y="0" width="254" height="382" pivotX="-64.5" pivotY="-20.45" frameX="-1" frameY="0" frameWidth="255" frameHeight="382"/>
+	<SubTexture name="Tanuki Menu instance 10001" x="0" y="0" width="254" height="382" frameX="-1" frameY="0" frameWidth="255" frameHeight="382"/>
+	<SubTexture name="Tanuki Menu instance 10002" x="254" y="0" width="255" height="382"/>
+	<SubTexture name="Tanuki Menu instance 10003" x="254" y="0" width="255" height="382"/>
+</TextureAtlas>

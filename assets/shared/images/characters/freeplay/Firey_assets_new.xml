@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Firey_assets_new.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firey down instancia 10000" x="0" y="0" width="394" height="603" frameX="-1" frameY="-2" frameWidth="396" frameHeight="605"/>
+	<SubTexture name="firey down instancia 10001" x="0" y="0" width="394" height="603" frameX="-1" frameY="-2" frameWidth="396" frameHeight="605"/>
+	<SubTexture name="firey down instancia 10002" x="394" y="0" width="396" height="605"/>
+	<SubTexture name="firey down instancia 10003" x="394" y="0" width="396" height="605"/>
+	<SubTexture name="firey idle dance instancia 10000" x="790" y="0" width="399" height="627" frameX="0" frameY="-13" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10001" x="790" y="0" width="399" height="627" frameX="0" frameY="-13" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10002" x="1189" y="0" width="394" height="627" frameX="-3" frameY="-13" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10003" x="1189" y="0" width="394" height="627" frameX="-3" frameY="-13" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10004" x="1583" y="0" width="382" height="639" frameX="-14" frameY="-1" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10005" x="1583" y="0" width="382" height="639" frameX="-14" frameY="-1" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10006" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10007" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10008" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10009" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10010" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10011" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10012" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey idle dance instancia 10013" x="0" y="639" width="381" height="640" frameX="-16" frameY="0" frameWidth="399" frameHeight="640"/>
+	<SubTexture name="firey left note instancia 10000" x="381" y="639" width="423" height="629" frameX="0" frameY="-2" frameWidth="423" frameHeight="631"/>
+	<SubTexture name="firey left note instancia 10001" x="381" y="639" width="423" height="629" frameX="0" frameY="-2" frameWidth="423" frameHeight="631"/>
+	<SubTexture name="firey left note instancia 10002" x="804" y="639" width="419" height="631" frameX="-2" frameY="0" frameWidth="423" frameHeight="631"/>
+	<SubTexture name="firey left note instancia 10003" x="804" y="639" width="419" height="631" frameX="-2" frameY="0" frameWidth="423" frameHeight="631"/>
+	<SubTexture name="firey rightnote instancia 10000" x="1223" y="639" width="400" height="642"/>
+	<SubTexture name="firey rightnote instancia 10001" x="1223" y="639" width="400" height="642"/>
+	<SubTexture name="firey rightnote instancia 10002" x="1623" y="639" width="398" height="639" frameX="0" frameY="-3" frameWidth="400" frameHeight="642"/>
+	<SubTexture name="firey rightnote instancia 10003" x="1623" y="639" width="398" height="639" frameX="0" frameY="-3" frameWidth="400" frameHeight="642"/>
+	<SubTexture name="firey up instancia 10000" x="0" y="1281" width="406" height="663" frameX="0" frameY="0" frameWidth="407" frameHeight="663"/>
+	<SubTexture name="firey up instancia 10001" x="0" y="1281" width="406" height="663" frameX="0" frameY="0" frameWidth="407" frameHeight="663"/>
+	<SubTexture name="firey up instancia 10002" x="406" y="1281" width="405" height="661" frameX="-2" frameY="-2" frameWidth="407" frameHeight="663"/>
+	<SubTexture name="firey up instancia 10003" x="406" y="1281" width="405" height="661" frameX="-2" frameY="-2" frameWidth="407" frameHeight="663"/>
+</TextureAtlas>

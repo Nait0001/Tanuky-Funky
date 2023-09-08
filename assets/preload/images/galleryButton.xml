@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gallery button.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gallery Button instance 10000" x="0" y="0" width="266" height="250" pivotX="23.6" pivotY="64.65"/>
+	<SubTexture name="Gallery Button instance 10001" x="0" y="0" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10002" x="0" y="0" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10003" x="0" y="0" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10004" x="0" y="0" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10005" x="0" y="250" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10006" x="0" y="250" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10007" x="0" y="250" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10008" x="0" y="250" width="266" height="250"/>
+	<SubTexture name="Gallery Button instance 10009" x="0" y="250" width="266" height="250"/>
+</TextureAtlas>

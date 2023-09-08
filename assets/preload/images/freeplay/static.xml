@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dsfdf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="televisao estatica0000" x="0" y="0" width="564" height="538" pivotX="106.45" pivotY="65"/>
+	<SubTexture name="televisao estatica0001" x="0" y="0" width="564" height="538"/>
+	<SubTexture name="televisao estatica0002" x="564" y="0" width="564" height="538"/>
+	<SubTexture name="televisao estatica0003" x="564" y="0" width="564" height="538"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow instance 10000" x="0" y="0" width="68" height="122" pivotX="67.4" pivotY="0" frameX="-1" frameY="0" frameWidth="69" frameHeight="122"/>
+	<SubTexture name="arrow instance 10001" x="0" y="0" width="68" height="122" frameX="-1" frameY="0" frameWidth="69" frameHeight="122"/>
+	<SubTexture name="arrow instance 10002" x="68" y="0" width="68" height="122" frameX="0" frameY="0" frameWidth="69" frameHeight="122"/>
+	<SubTexture name="arrow instance 10003" x="68" y="0" width="68" height="122" frameX="0" frameY="0" frameWidth="69" frameHeight="122"/>
+	<SubTexture name="arrow press instance 10000" x="136" y="0" width="76" height="111" pivotX="67" pivotY="0" frameX="-2" frameY="-7" frameWidth="78" frameHeight="122"/>
+	<SubTexture name="arrow press instance 10001" x="136" y="0" width="76" height="111" frameX="-2" frameY="-7" frameWidth="78" frameHeight="122"/>
+	<SubTexture name="arrow press instance 10002" x="0" y="122" width="68" height="122" frameX="0" frameY="0" frameWidth="78" frameHeight="122"/>
+	<SubTexture name="arrow press instance 10003" x="0" y="122" width="68" height="122" frameX="0" frameY="0" frameWidth="78" frameHeight="122"/>
+</TextureAtlas>

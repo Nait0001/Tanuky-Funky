@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nuky.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nuky Menu instance 10000" x="0" y="0" width="222" height="386" pivotX="0" pivotY="0.6" frameX="0" frameY="0" frameWidth="223" frameHeight="387"/>
+	<SubTexture name="Nuky Menu instance 10001" x="0" y="0" width="222" height="386" frameX="0" frameY="0" frameWidth="223" frameHeight="387"/>
+	<SubTexture name="Nuky Menu instance 10002" x="222" y="0" width="223" height="386" frameX="0" frameY="-1" frameWidth="223" frameHeight="387"/>
+	<SubTexture name="Nuky Menu instance 10003" x="222" y="0" width="223" height="386" frameX="0" frameY="-1" frameWidth="223" frameHeight="387"/>
+</TextureAtlas>

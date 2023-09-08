@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Unused",  "nuky", [34, 51, 68]],
+		["Unknown", "nuky", [34, 51, 68]]
+	],
+	"difficulties": "",
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

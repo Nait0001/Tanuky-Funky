@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf Menu instance 10000" x="0" y="0" width="354" height="405" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="354" frameHeight="406"/>
+	<SubTexture name="Bf Menu instance 10001" x="0" y="0" width="354" height="405" frameX="0" frameY="0" frameWidth="354" frameHeight="406"/>
+	<SubTexture name="Bf Menu instance 10002" x="0" y="405" width="354" height="406"/>
+	<SubTexture name="Bf Menu instance 10003" x="0" y="405" width="354" height="406"/>
+</TextureAtlas>

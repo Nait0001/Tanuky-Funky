@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Nuky.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF down0000" x="0" y="0" width="256" height="352" frameX="0" frameY="-3" frameWidth="256" frameHeight="355"/>
+	<SubTexture name="BF down0001" x="0" y="0" width="256" height="352" frameX="0" frameY="-3" frameWidth="256" frameHeight="355"/>
+	<SubTexture name="BF down0002" x="256" y="0" width="254" height="355" frameX="-2" frameY="0" frameWidth="256" frameHeight="355"/>
+	<SubTexture name="BF down0003" x="256" y="0" width="254" height="355" frameX="-2" frameY="0" frameWidth="256" frameHeight="355"/>
+	<SubTexture name="BF idle0000" x="510" y="0" width="250" height="356" frameX="0" frameY="-11" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0001" x="510" y="0" width="250" height="356" frameX="0" frameY="-11" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0002" x="760" y="0" width="249" height="355" frameX="-1" frameY="-12" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0003" x="760" y="0" width="249" height="355" frameX="-1" frameY="-12" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0004" x="0" y="356" width="249" height="355" frameX="-1" frameY="-12" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0005" x="0" y="356" width="249" height="355" frameX="-1" frameY="-12" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0006" x="249" y="356" width="241" height="365" frameX="-10" frameY="-2" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0007" x="249" y="356" width="241" height="365" frameX="-10" frameY="-2" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0008" x="490" y="356" width="240" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0009" x="490" y="356" width="240" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0010" x="730" y="356" width="240" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0011" x="730" y="356" width="240" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0012" x="730" y="356" width="240" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0013" x="0" y="723" width="239" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF idle0014" x="0" y="723" width="239" height="367" frameX="-12" frameY="0" frameWidth="252" frameHeight="367"/>
+	<SubTexture name="BF left0000" x="239" y="723" width="276" height="367"/>
+	<SubTexture name="BF left0001" x="239" y="723" width="276" height="367"/>
+	<SubTexture name="BF left0002" x="515" y="723" width="272" height="364" frameX="-4" frameY="-3" frameWidth="276" frameHeight="367"/>
+	<SubTexture name="BF left0003" x="515" y="723" width="272" height="364" frameX="-4" frameY="-3" frameWidth="276" frameHeight="367"/>
+	<SubTexture name="BF right0000" x="0" y="1090" width="247" height="361"/>
+	<SubTexture name="BF right0001" x="0" y="1090" width="247" height="361"/>
+	<SubTexture name="BF right0002" x="247" y="1090" width="244" height="361" frameX="0" frameY="0" frameWidth="247" frameHeight="361"/>
+	<SubTexture name="BF right0003" x="247" y="1090" width="244" height="361" frameX="0" frameY="0" frameWidth="247" frameHeight="361"/>
+	<SubTexture name="BF up0000" x="491" y="1090" width="236" height="381" frameX="-5" frameY="0" frameWidth="241" frameHeight="381"/>
+	<SubTexture name="BF up0001" x="491" y="1090" width="236" height="381" frameX="-5" frameY="0" frameWidth="241" frameHeight="381"/>
+	<SubTexture name="BF up0002" x="727" y="1090" width="239" height="372" frameX="0" frameY="-9" frameWidth="241" frameHeight="381"/>
+	<SubTexture name="BF up0003" x="727" y="1090" width="239" height="372" frameX="0" frameY="-9" frameWidth="241" frameHeight="381"/>
+</TextureAtlas>

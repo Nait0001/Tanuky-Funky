@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FreePlay_Menu_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="difficultlies0000" x="0" y="0" width="395" height="121" pivotX="102.45" pivotY="-2.45"/>
+	<SubTexture name="difficultlies0001" x="0" y="0" width="395" height="121"/>
+	<SubTexture name="difficultlies0002" x="0" y="121" width="395" height="121"/>
+	<SubTexture name="difficultlies0003" x="0" y="121" width="395" height="121"/>
+	<SubTexture name="difficultlies0004" x="0" y="242" width="395" height="121"/>
+	<SubTexture name="difficultlies0005" x="0" y="242" width="395" height="121"/>
+</TextureAtlas>

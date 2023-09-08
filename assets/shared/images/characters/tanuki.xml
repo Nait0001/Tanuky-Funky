@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tanuki.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tanuki Down0000" x="0" y="0" width="422" height="644" pivotX="28.3" pivotY="-52.45" frameX="0" frameY="-6" frameWidth="422" frameHeight="650"/>
+	<SubTexture name="Tanuki Down0001" x="0" y="0" width="422" height="644" frameX="0" frameY="-6" frameWidth="422" frameHeight="650"/>
+	<SubTexture name="Tanuki Down0002" x="422" y="0" width="412" height="650" frameX="-4" frameY="0" frameWidth="422" frameHeight="650"/>
+	<SubTexture name="Tanuki Down0003" x="422" y="0" width="412" height="650" frameX="-4" frameY="0" frameWidth="422" frameHeight="650"/>
+	<SubTexture name="Tanuki Down Alt0000" x="834" y="0" width="460" height="644" pivotX="66.3" pivotY="-52.45" frameX="0" frameY="-6" frameWidth="460" frameHeight="650"/>
+	<SubTexture name="Tanuki Down Alt0001" x="834" y="0" width="460" height="644" frameX="0" frameY="-6" frameWidth="460" frameHeight="650"/>
+	<SubTexture name="Tanuki Down Alt0002" x="1294" y="0" width="451" height="650" frameX="-3" frameY="0" frameWidth="460" frameHeight="650"/>
+	<SubTexture name="Tanuki Down Alt0003" x="1294" y="0" width="451" height="650" frameX="-3" frameY="0" frameWidth="460" frameHeight="650"/>
+	<SubTexture name="Tanuki Idle Dance0000" x="1745" y="0" width="400" height="687" pivotX="23.6" pivotY="4.75" frameX="-12" frameY="-18" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0001" x="1745" y="0" width="400" height="687" frameX="-12" frameY="-18" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0002" x="2145" y="0" width="401" height="690" frameX="-12" frameY="-15" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0003" x="2145" y="0" width="401" height="690" frameX="-12" frameY="-15" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0004" x="2546" y="0" width="402" height="701" frameX="0" frameY="-4" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0005" x="2546" y="0" width="402" height="701" frameX="0" frameY="-4" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0006" x="2948" y="0" width="399" height="705" frameX="-2" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0007" x="2948" y="0" width="399" height="705" frameX="-2" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0008" x="3347" y="0" width="397" height="705" frameX="-4" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0009" x="0" y="705" width="396" height="705" frameX="-5" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0010" x="0" y="705" width="396" height="705" frameX="-5" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0011" x="0" y="705" width="396" height="705" frameX="-5" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0012" x="0" y="705" width="396" height="705" frameX="-5" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0013" x="0" y="705" width="396" height="705" frameX="-5" frameY="0" frameWidth="413" frameHeight="705"/>
+	<SubTexture name="Tanuki Left0000" x="396" y="705" width="457" height="700" pivotX="-39.95" pivotY="-0.6" frameX="-3" frameY="-1" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left0001" x="396" y="705" width="457" height="700" frameX="-3" frameY="-1" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left0002" x="853" y="705" width="449" height="701" frameX="0" frameY="0" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left0003" x="853" y="705" width="449" height="701" frameX="0" frameY="0" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left-Alt0000" x="1302" y="705" width="457" height="700" pivotX="-39.95" pivotY="-0.6" frameX="-3" frameY="-1" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left-Alt0001" x="1302" y="705" width="457" height="700" frameX="-3" frameY="-1" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left-Alt0002" x="1759" y="705" width="449" height="701" frameX="0" frameY="0" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Left-Alt0003" x="1759" y="705" width="449" height="701" frameX="0" frameY="0" frameWidth="460" frameHeight="701"/>
+	<SubTexture name="Tanuki Right0000" x="2208" y="705" width="449" height="679" pivotX="77.35" pivotY="-22.95"/>
+	<SubTexture name="Tanuki Right0001" x="2208" y="705" width="449" height="679"/>
+	<SubTexture name="Tanuki Right0002" x="2657" y="705" width="448" height="678" frameX="-1" frameY="-1" frameWidth="449" frameHeight="679"/>
+	<SubTexture name="Tanuki Right0003" x="2657" y="705" width="448" height="678" frameX="-1" frameY="-1" frameWidth="449" frameHeight="679"/>
+	<SubTexture name="Tanuki Right Alt0000" x="3105" y="705" width="449" height="679" pivotX="77.35" pivotY="-22.95"/>
+	<SubTexture name="Tanuki Right Alt0001" x="3105" y="705" width="449" height="679"/>
+	<SubTexture name="Tanuki Right Alt0002" x="3554" y="705" width="448" height="678" frameX="-1" frameY="-1" frameWidth="449" frameHeight="679"/>
+	<SubTexture name="Tanuki Right Alt0003" x="3554" y="705" width="448" height="678" frameX="-1" frameY="-1" frameWidth="449" frameHeight="679"/>
+	<SubTexture name="Tanuki Up0000" x="0" y="1410" width="378" height="731" pivotX="13.6" pivotY="35.75" frameX="0" frameY="0" frameWidth="379" frameHeight="732"/>
+	<SubTexture name="Tanuki Up0001" x="0" y="1410" width="378" height="731" frameX="0" frameY="0" frameWidth="379" frameHeight="732"/>
+	<SubTexture name="Tanuki Up0002" x="378" y="1410" width="378" height="727" frameX="-1" frameY="-5" frameWidth="379" frameHeight="732"/>
+	<SubTexture name="Tanuki Up0003" x="378" y="1410" width="378" height="727" frameX="-1" frameY="-5" frameWidth="379" frameHeight="732"/>
+	<SubTexture name="Tanuki Up Alt0000" x="756" y="1410" width="470" height="717" pivotX="24.35" pivotY="20.65" frameX="-4" frameY="0" frameWidth="477" frameHeight="717"/>
+	<SubTexture name="Tanuki Up Alt0001" x="756" y="1410" width="470" height="717" frameX="-4" frameY="0" frameWidth="477" frameHeight="717"/>
+	<SubTexture name="Tanuki Up Alt0002" x="1226" y="1410" width="477" height="714" frameX="0" frameY="-2" frameWidth="477" frameHeight="717"/>
+	<SubTexture name="Tanuki Up Alt0003" x="1226" y="1410" width="477" height="714" frameX="0" frameY="-2" frameWidth="477" frameHeight="717"/>
+</TextureAtlas>

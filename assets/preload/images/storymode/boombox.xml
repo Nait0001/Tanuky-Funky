@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boombox menu instance 10000" x="0" y="0" width="282" height="201" pivotX="121.7" pivotY="2" frameX="-2" frameY="-6" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10001" x="0" y="0" width="282" height="201" frameX="-2" frameY="-6" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10002" x="0" y="201" width="282" height="203" frameX="-2" frameY="-3" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10003" x="0" y="201" width="282" height="203" frameX="-2" frameY="-3" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10004" x="0" y="404" width="290" height="218" frameX="0" frameY="-2" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10005" x="0" y="404" width="290" height="218" frameX="0" frameY="-2" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10006" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10007" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10008" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10009" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10010" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10011" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10012" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+	<SubTexture name="boombox menu instance 10013" x="0" y="622" width="289" height="218" frameX="-1" frameY="0" frameWidth="290" frameHeight="220"/>
+</TextureAtlas>

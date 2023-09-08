@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Chasing-Tunes", 	  "tanuki-pixel", [148, 22, 83]],
+		["Colorful-Illusion", "tanuki-pixel", [148, 22, 83]]
+	],
+	"difficulties": "",
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "PICO",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

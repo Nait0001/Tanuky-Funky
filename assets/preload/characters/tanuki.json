@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tanuki Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tanuki Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tanuki Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tanuki Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tanuki Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Tanuki Up Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-4
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Tanuki Left-Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-47
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Tanuki Down Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-24
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Tanuki Right Alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tanuki",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "tanuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		32,
+		79
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

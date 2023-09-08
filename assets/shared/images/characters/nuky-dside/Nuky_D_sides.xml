@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nuky_D_sides.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nukae Down0000" x="0" y="0" width="549" height="679" pivotX="234.85" pivotY="77.75" frameX="0" frameY="-5" frameWidth="549" frameHeight="684"/>
+	<SubTexture name="Nukae Down0001" x="0" y="0" width="549" height="679" frameX="0" frameY="-5" frameWidth="549" frameHeight="684"/>
+	<SubTexture name="Nukae Down0002" x="549" y="0" width="541" height="684" frameX="-4" frameY="0" frameWidth="549" frameHeight="684"/>
+	<SubTexture name="Nukae Down0003" x="549" y="0" width="541" height="684" frameX="-4" frameY="0" frameWidth="549" frameHeight="684"/>
+	<SubTexture name="Nukae Idle Dance0000" x="1090" y="0" width="434" height="699" pivotX="164.65" pivotY="153.35" frameX="0" frameY="-21" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0001" x="1090" y="0" width="434" height="699" frameX="0" frameY="-21" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0002" x="1524" y="0" width="428" height="702" frameX="-5" frameY="-18" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0003" x="1524" y="0" width="428" height="702" frameX="-5" frameY="-18" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0004" x="1952" y="0" width="422" height="717" frameX="-5" frameY="-3" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0005" x="1952" y="0" width="422" height="717" frameX="-5" frameY="-3" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0006" x="2374" y="0" width="423" height="719" frameX="-3" frameY="-1" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0007" x="2374" y="0" width="423" height="719" frameX="-3" frameY="-1" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0008" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0009" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0010" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0011" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0012" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Idle Dance0013" x="2797" y="0" width="424" height="720" frameX="-2" frameY="0" frameWidth="434" frameHeight="720"/>
+	<SubTexture name="Nukae Right0000" x="3221" y="0" width="582" height="664" pivotX="25.9" pivotY="112.75"/>
+	<SubTexture name="Nukae Right0001" x="3221" y="0" width="582" height="664"/>
+	<SubTexture name="Nukae Right0002" x="0" y="720" width="580" height="663" frameX="0" frameY="-1" frameWidth="582" frameHeight="664"/>
+	<SubTexture name="Nukae Right0003" x="0" y="720" width="580" height="663" frameX="0" frameY="-1" frameWidth="582" frameHeight="664"/>
+	<SubTexture name="Nukae Up0000" x="580" y="720" width="483" height="766" pivotX="165.1" pivotY="184.65" frameX="0" frameY="0" frameWidth="485" frameHeight="766"/>
+	<SubTexture name="Nukae Up0001" x="580" y="720" width="483" height="766" frameX="0" frameY="0" frameWidth="485" frameHeight="766"/>
+	<SubTexture name="Nukae Up0002" x="1063" y="720" width="484" height="761" frameX="-1" frameY="-4" frameWidth="485" frameHeight="766"/>
+	<SubTexture name="Nukae Up0003" x="1063" y="720" width="484" height="761" frameX="-1" frameY="-4" frameWidth="485" frameHeight="766"/>
+	<SubTexture name="Nukae singLeft0000" x="1547" y="720" width="531" height="719" pivotX="289.75" pivotY="152.55" frameX="0" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="Nukae singLeft0001" x="1547" y="720" width="531" height="719" frameX="0" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="Nukae singLeft0002" x="2078" y="720" width="530" height="717" frameX="-2" frameY="-2" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="Nukae singLeft0003" x="2078" y="720" width="530" height="717" frameX="-2" frameY="-2" frameWidth="532" frameHeight="719"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Title_Screen_Assetsfdf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tanuki Idle Dance0000" x="0" y="0" width="415" height="705"/>
+	<SubTexture name="Tanuki Idle Dance0001" x="0" y="0" width="415" height="705"/>
+	<SubTexture name="Tanuki Idle Dance0002" x="415" y="0" width="414" height="705" frameX="0" frameY="0" frameWidth="415" frameHeight="705"/>
+	<SubTexture name="Tanuki Idle Dance0003" x="415" y="0" width="414" height="705" frameX="0" frameY="0" frameWidth="415" frameHeight="705"/>
+</TextureAtlas>

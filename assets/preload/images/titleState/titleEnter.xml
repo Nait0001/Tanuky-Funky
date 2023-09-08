@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Title_Screen_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Enter 0000" x="0" y="0" width="167" height="197"/>
+	<SubTexture name="Enter 0001" x="0" y="0" width="167" height="197"/>
+	<SubTexture name="Enter 0002" x="167" y="0" width="167" height="197"/>
+	<SubTexture name="Enter 0003" x="167" y="0" width="167" height="197"/>
+	<SubTexture name="Enter Pressed0000" x="334" y="0" width="184" height="115" frameX="-139" frameY="-52" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0001" x="518" y="0" width="184" height="117" frameX="-139" frameY="-50" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0002" x="702" y="0" width="180" height="120" frameX="-140" frameY="-49" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0003" x="702" y="0" width="180" height="120" frameX="-140" frameY="-47" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0004" x="882" y="0" width="180" height="200" frameX="-140" frameY="0" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0005" x="1062" y="0" width="198" height="200" frameX="-131" frameY="0" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0006" x="1260" y="0" width="216" height="157" frameX="-122" frameY="-26" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0007" x="1476" y="0" width="236" height="157" frameX="-112" frameY="-26" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0008" x="1712" y="0" width="254" height="165" frameX="-103" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0009" x="0" y="200" width="272" height="165" frameX="-94" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0010" x="272" y="200" width="292" height="165" frameX="-84" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0011" x="564" y="200" width="310" height="165" frameX="-75" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0012" x="874" y="200" width="330" height="165" frameX="-65" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0013" x="1204" y="200" width="348" height="165" frameX="-56" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0014" x="1552" y="200" width="366" height="165" frameX="-47" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0015" x="0" y="365" width="386" height="165" frameX="-37" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0016" x="386" y="365" width="404" height="166" frameX="-28" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0017" x="790" y="365" width="422" height="168" frameX="-19" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0018" x="1212" y="365" width="442" height="169" frameX="-9" frameY="-20" frameWidth="460" frameHeight="200"/>
+	<SubTexture name="Enter Pressed0019" x="0" y="534" width="460" height="171" frameX="0" frameY="-20" frameWidth="460" frameHeight="200"/>
+</TextureAtlas>

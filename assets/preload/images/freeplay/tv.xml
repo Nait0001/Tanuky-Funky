@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="televisao0000" x="0" y="0" width="554" height="646" pivotX="0" pivotY="0.65"/>
+	<SubTexture name="televisao0001" x="0" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0002" x="0" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0003" x="0" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0004" x="0" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0005" x="554" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0006" x="554" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0007" x="554" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0008" x="554" y="0" width="554" height="646"/>
+	<SubTexture name="televisao0009" x="554" y="0" width="554" height="646"/>
+</TextureAtlas>
